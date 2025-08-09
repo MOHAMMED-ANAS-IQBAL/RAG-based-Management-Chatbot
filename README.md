@@ -12,7 +12,7 @@ Users upload their own management PDF files to create a custom knowledge base, a
 
 ---
 
-## Features
+## ✨ Features
 - Upload PDFs (management books, reports, policies, case studies) to enable RAG mode.
 - If no files are uploaded, the app runs in **Standard Mode** using LLM-only responses.
 - Simple keyword-based retrieval is used as the RAG retrieval mechanism in the current version (chunks chosen via keyword overlap).
@@ -21,7 +21,7 @@ Users upload their own management PDF files to create a custom knowledge base, a
 
 ---
 
-## Project structure
+## 👨🏻‍💻 Project structure
 
 project/
 
@@ -101,5 +101,10 @@ streamlit run chat.py
 
 ---
 
-✉️ Contact[
-https://www.linkedin.com/in/mohammedanasiqbal/](https://www.linkedin.com/in/mohammedanasiqbal/)
+## 🤖 Streamlit live:
+https://rag-based-management-chatbot.streamlit.app/
+
+---
+
+## ✉️ Contact:
+[https://www.linkedin.com/in/mohammedanasiqbal/](https://www.linkedin.com/in/mohammedanasiqbal/)
